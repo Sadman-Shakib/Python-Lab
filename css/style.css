@@ -1,0 +1,412 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    background-color: aqua;
+}
+
+.nav {
+    a {
+        text-decoration: none;
+        color: black;
+        margin-right: 15px;
+        padding-left: 5px;
+        padding-right: 5px;
+        border-radius: 15px;
+        
+        background-color: white;
+        font-size: 30px;
+        font-family: poppins;
+    }
+
+    .tit {
+        color: red;
+        margin-right: 400px;
+        font-weight: bold;
+        padding: 5px;
+    }
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+    border: 2px solid orange;
+}
+
+.txt {
+    font-size: 40px;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    /* background-color: orange; */
+    border: 5px solid;
+    /* border-radius: 25px; */
+    height: 50px;
+    background-color: beige;
+}
+
+
+.nav {
+    padding-top: 20px;
+    padding-bottom: 10px;
+    background-color: black;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border: 3px solid black;
+    text-align: center  ;
+}
+
+
+/* product section */
+
+
+.prod1 {
+    font-family: poppins;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+
+    
+}
+
+.sp {
+    border: 2px solid black;
+}
+.lp {
+    border: 2px solid black;
+}
+.rt {
+    border: 2px solid black;
+}
+.bp {
+    border: 2px solid black;
+}
+.cl {
+    border: 2px solid black;
+}
+.sk {
+    border: 2px solid black;
+}
+
+.p1{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: red; */
+    border: 2px solid black;
+}
+
+.p2{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: green; */
+    border: 2px solid black;
+}
+
+.p3{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: orange; */
+    border: 2px solid black;
+}
+
+.p4{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: yellow; */
+    border: 2px solid black;
+}
+
+.p5{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: magenta; */
+    border: 2px solid black;
+}
+
+.p6{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: blueviolet; */
+    border: 2px solid black;
+}
+
+
+/* prod 2 */
+
+.prod2 {
+    font-family: poppins;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    
+}
+
+
+.pt {
+    border: 2px solid black;
+}
+.st {
+    border: 2px solid black;
+}
+.ts {
+    border: 2px solid black;
+}
+.wt {
+    border: 2px solid black;
+}
+.wh {
+    border: 2px solid black;
+}
+.ld  {
+    border: 2px solid black;
+}
+
+
+.p7{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: red; */
+    border: 2px solid black;
+}
+
+.p8{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: green; */
+    border: 2px solid black;
+}
+
+.p9{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: orange; */
+    border: 2px solid black;
+}
+
+.p10{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: yellow; */
+    border: 2px solid black;
+}
+
+.p11{
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: magenta; */
+    border: 2px solid black;
+}
+
+.p12 {
+    text-align: center;
+    height: 300px;
+    width: 250px;
+    /* background-color: blueviolet; */
+    border: 2px solid black;
+}
+
+
+
+
+.sp:hover {
+    background-color: black;
+    color: white;
+}
+
+.lp:hover {
+    background-color: black;
+    color: white;
+}
+
+.rt:hover {
+    background-color: black;
+    color: white;
+}
+
+.bp:hover {
+    background-color: black;
+    color: white;
+}
+
+.cl:hover {
+    background-color: black;
+    color: white;
+}
+
+.sk:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.sp:hover {
+    background-color: black;
+    color: white;
+}
+
+
+
+.pt:hover {
+    background-color: black;
+    color: white;
+}
+
+.st:hover {
+    background-color: black;
+    color: white;
+}
+
+.ts:hover {
+    background-color: black;
+    color: white;
+}
+
+.wt:hover {
+    background-color: black;
+    color: white;
+}
+
+.wh:hover {
+    background-color: black;
+    color: white;
+}
+.ld:hover {
+    background-color: black;
+    color: white;
+}
+
+
+.prod1{
+    a {
+        background-color: green;
+        color: white;
+        text-decoration: none;
+        font-weight: lighter;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    
+    a:hover {
+        background-color: red;
+        color: black;
+    }
+}
+
+.prod2 {
+    a {
+        background-color: green;
+        color: white;
+        text-decoration: none;
+        font-weight: lighter;
+        border-radius: 10px;
+        padding: 5px;
+    }
+    
+    a:hover {
+        background-color: red;
+        color: black;
+    }
+}
+
+.pi1 {
+    height: 210px;
+    width: 250px;
+    background-image: url("sphone.jpeg");
+}
+
+.pi2 {
+    height: 210px;
+    width: 250px;
+    background-image: url("dell.jpg");
+}
+
+.pi3 {
+    height: 210px;
+    width: 250px;
+    background-image: url("tp.jpeg");
+}
+
+.pi4 {
+    height: 210px;
+    width: 250px;
+    background-image: url("nokia.jpg");
+}
+
+.pi5 {
+    height: 210px;
+    width: 250px;
+    background-image: url("cal.jpg");
+}
+
+.pi6 {
+    height: 210px;
+    width: 250px;
+    background-image: url("jbl.jpeg");
+}
+
+.pi7 {
+    height: 210px;
+    width: 250px;
+    background-image: url("pant.jpeg");
+}
+
+.pi8 {
+    height: 210px;
+    width: 250px;
+    background-image: url("shirt.jpg");
+}
+
+.pi9 {
+    height: 210px;
+    width: 250px;
+    background-image: url("tshirt.jpeg");
+}
+
+.pi10 {
+    height: 210px;
+    width: 250px;
+    background-image: url("wallet.jpeg");
+}
+
+.pi11 {
+    height: 210px;
+    width: 250px;
+    background-image: url("water.jpeg");
+}
+
+.pi12 {
+    height: 210px;
+    width: 250px;
+    background-image: url("led.jpg");
+}
+
+.foot {
+    margin-top: 40px;
+    background-color: beige;
+    text-align: center;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 27px;
+    padding-top: 20px;
+}
